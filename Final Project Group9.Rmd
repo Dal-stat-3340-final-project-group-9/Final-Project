@@ -182,3 +182,5 @@ The obesity is significantly associated with gender and education status at the 
 ## 7.Appendix
 
 [Data source for the nutrition data](https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity)
+
+[R Markdown file](https://github.com/Dal-stat-3340-final-project-group-9/Final-Project/blob/main/Final%20Project%20Group9.Rmd)
