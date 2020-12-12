@@ -77,7 +77,9 @@ For each question, the proportion and corresponding confidence limit were provid
 
 
 ## 3.Data Description
-Introduce new data point
+Introduce new data point:
+
+Since our data is grouped according to different issues, we cannot add or reduce data to a single group. If new data is added to each group, it will require a lot of investigation and is difficult to achieve. Therefore, the data we add to the code will not have a big impact on future analysis.
 
 ```{r}
 dat1=rbind(dat,rep(1,33))
